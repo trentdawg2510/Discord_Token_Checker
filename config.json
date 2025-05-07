@@ -1,0 +1,8 @@
+{
+    "threads": 300,
+    "thread_wait_time": 0,
+    "proxyless": true,
+    "1m_tokens_threshold": 5,
+    "3m_tokens_threshold": 5,
+    "clear_output_files": true
+}
